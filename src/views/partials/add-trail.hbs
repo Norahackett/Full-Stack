@@ -1,0 +1,23 @@
+<form class="box" action="/traillist/{{traillist._id}}/addtrail" method="POST">
+    <label>Enter Trail Details:</label>
+    <div class="field is-horizontal">
+        <div class="field-body">
+            <div class="field">
+                <input class="input" type="text" placeholder="Enter Name" name="name">
+            </div>
+            <div class="field">
+                <input class="input" type="text" placeholder="Enter Lat" name="lat">
+            </div>
+            <div class="field">
+                <input class="input" type="text" placeholder="Enter Lon" name="lon">
+            </div>
+            <div class="field">
+                <input class="input" type="text" placeholder="Enter County" name="county">
+            </div>
+            <div class="field">
+                <input class="input" type="text" placeholder="Enter Description" name="description">
+            </div>
+        </div>
+    </div>
+    <button class="button is-primary">Add Trail</button>
+</form>

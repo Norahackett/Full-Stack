@@ -1,0 +1,31 @@
+{
+  "trails": [
+    {
+      "name": "Kilkenny",
+      "lat": 5,
+      "lon": 5,
+      "county": "kilkenny",
+      "description": "easy",
+      "_id": "2b7a6df4-7e3f-44be-9423-04ad65d5fb1a",
+      "traillistid": "1a7fe646-a555-4a49-9e59-37578f2b40dd"
+    },
+    {
+      "name": "Waterford",
+      "lat": 4,
+      "lon": 4,
+      "county": "waterford",
+      "description": "easy",
+      "_id": "4c0aeea0-e4bc-4dfb-969e-4a46e5a017a2",
+      "traillistid": "1a7fe646-a555-4a49-9e59-37578f2b40dd"
+    },
+    {
+      "name": "Carlow",
+      "lat": 6,
+      "lon": 6,
+      "county": "Carlow",
+      "description": "moderate",
+      "_id": "ec0da3f2-1de3-4e68-9edb-1fef601f7007",
+      "traillistid": "1a7fe646-a555-4a49-9e59-37578f2b40dd"
+    }
+  ]
+}
